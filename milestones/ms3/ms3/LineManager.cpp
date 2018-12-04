@@ -96,5 +96,3 @@ void LineManager::validateTasks() const{
 }
 
 
-//dear future mon: go fuck yourself lol
-//                 you made stupid life decisions now youre here panicking
